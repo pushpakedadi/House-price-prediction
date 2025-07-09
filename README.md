@@ -29,6 +29,5 @@ I trained and evaluated both **Linear Regression** and **Random Forest** models 
 ---
 
 ## 📬 Contact
-If you like this project or have questions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-House-price-prediction
+If you like this project or have questions, feel free to connect with me on [LinkedIn](www.linkedin.com/in/pushpa-kedadi-6459822a1
 Machine Learning project to predict house prices using Linear Regression and Random Forest
